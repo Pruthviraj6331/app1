@@ -1,3 +1,3 @@
-@Library('shared-lib') _
+@Library('jenkins-shared-library') _
 
 pipeline()
